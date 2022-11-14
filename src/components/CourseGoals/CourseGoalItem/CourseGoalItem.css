@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
 .goal-item {
   margin: 1rem 0;
   background: #8b005d;
@@ -5,4 +7,5 @@
   color: white;
   padding: 1rem 2rem;
   cursor: pointer;
+  font-family: 'Roboto Slab', serif;
 }
